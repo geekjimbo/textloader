@@ -1,0 +1,4 @@
+USER        HOST        USERHOST        ACTION
+tom        dc         dc\tom        log in
+clark        abc         abc\clark        log off
+loren        abc         abc\loren        log off
